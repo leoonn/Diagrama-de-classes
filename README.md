@@ -1,2 +1,2 @@
-# Diagrama-de-classes
-Repositório para diagrama de classes
+# Diagramas-UML
+Repositório para diagrama UML
